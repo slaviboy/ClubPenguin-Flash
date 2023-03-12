@@ -1,0 +1,5 @@
+14:05:11 [Error] > Plugins directory (Kitsune/ClubPenguin/Plugins/) does not exist!
+14:08:58 [Error] > Plugins directory (Kitsune/ClubPenguin/Plugins/) does not exist!
+14:09:31 [Error] > Plugins directory (Kitsune/ClubPenguin/Plugins/) does not exist!
+14:28:21 [Error] > Plugins directory (Kitsune/ClubPenguin/Plugins/) does not exist!
+14:28:21 [Error] > Plugins directory (Kitsune/ClubPenguin/Plugins/) does not exist!

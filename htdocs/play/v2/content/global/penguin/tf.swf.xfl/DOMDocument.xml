@@ -1,0 +1,65 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
+     <timelines>
+          <DOMTimeline name="Page 1">
+               <layers>
+                    <DOMLayer name="Script 0" color="#4F80FF" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[
+var shell = _global.getCurrentShell();
+var airtower = _global.getCurrentAirtower();
+var INTERFACE = _global.getCurrentInterface();
+var engine = _global.getCurrentEngine();
+var Tf = function (obj)
+{
+    obj.shift();
+    var __reg2 = obj[0];
+    var __reg3 = obj[1];
+    var __reg4 = null;
+    if (__reg3 == 1001) 
+    {
+        __reg3 = "marshmallow";
+    }
+    if (__reg3 == 1000) 
+    {
+        __reg3 = "olaf";
+    }
+    if (__reg3 == 35) 
+    {
+        __reg3 = "sasquatch";
+    }
+    if (__reg3 == 29) 
+    {
+        __reg3 = "tracetracker";
+        __reg4 = "no";
+    }
+    if (__reg3 == 0) 
+    {
+        __reg3 = "penguin";
+        __reg4 = "no";
+    }
+    mc = engine.getPlayerMovieClip(__reg2);
+    if (__reg4 != null) 
+    {
+        mc.art_mc.loadMovie("http://playpenguinisland.ddns.net/play/v2/content/global/penguin/" + __reg3 + ".swf");
+        return;
+    }
+    if (__reg3 != null) 
+    {
+        mc.art_mc.loadMovie("http://playpenguinisland.ddns.net/play/v2/content/global/avatar/sprites/" + __reg3 + ".swf");
+    }
+}
+;
+airtower.addListener("spt", Tf);]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>

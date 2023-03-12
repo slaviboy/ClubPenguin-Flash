@@ -1,0 +1,7 @@
+- finish AS2 Puffle handlers
+- card-jitsu handlers (from what I'm guessing, could take a while)
+- treasure hunt (we need packet dumps from club penguin, I cannot make any sense of this from the client code)
+- AS2 moderation handlers
+- ignore list functionality (don't show ignored players, disable postcards ect)
+- monthly postcard payments
+- multiplayer tables send you back to the previous room

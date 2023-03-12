@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<World>
+  <id>100</id>
+  <name>Blizzard</name>
+  <address>0</address>
+  <port>6113</port>
+  <capacity>100</capacity>
+</World>

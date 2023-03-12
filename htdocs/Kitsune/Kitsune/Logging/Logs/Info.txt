@@ -1,0 +1,619 @@
+11:27:25 [Info] > Loaded 1 plugin(s): LoginNotice
+11:27:25 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+11:28:30 [Info] > Loaded 1 plugin(s): LoginNotice
+11:28:30 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+11:28:38 [Info] > Removing empty database object
+11:29:07 [Info] > Removing empty database object
+11:29:50 [Info] > Removing empty database object
+11:31:42 [Info] > Loaded 1 plugin(s): LoginNotice
+11:31:42 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+11:31:51 [Info] > Removing empty database object
+11:31:52 [Info] > Player disconnected
+11:32:14 [Info] > Removing empty database object
+11:32:14 [Info] > Player disconnected
+11:32:30 [Info] > Removing empty database object
+11:32:32 [Info] > Player disconnected
+11:33:48 [Info] > Removing empty database object
+11:33:48 [Info] > Player disconnected
+11:33:54 [Info] > Removing empty database object
+11:33:55 [Info] > Player disconnected
+11:33:58 [Info] > Removing empty database object
+11:33:58 [Info] > Player disconnected
+11:34:05 [Info] > Removing empty database object
+11:34:37 [Info] > Player disconnected
+11:34:48 [Info] > Removing empty database object
+11:34:48 [Info] > Player disconnected
+11:34:56 [Info] > Removing empty database object
+11:34:58 [Info] > Player disconnected
+11:35:32 [Info] > Removing empty database object
+11:35:32 [Info] > Player disconnected
+11:36:01 [Info] > Removing empty database object
+11:36:02 [Info] > Player disconnected
+11:36:32 [Info] > Removing empty database object
+11:36:32 [Info] > Player disconnected
+11:36:38 [Info] > Removing empty database object
+11:36:39 [Info] > Player disconnected
+11:36:50 [Info] > Removing empty database object
+11:36:50 [Info] > Player disconnected
+11:41:20 [Info] > Removing empty database object
+11:41:22 [Info] > Player disconnected
+11:41:41 [Info] > Removing empty database object
+11:41:41 [Info] > Player disconnected
+11:42:32 [Info] > Removing empty database object
+11:42:33 [Info] > Player disconnected
+11:42:40 [Info] > Removing empty database object
+11:42:40 [Info] > Player disconnected
+11:45:56 [Info] > Removing empty database object
+11:46:13 [Info] > Removing empty database object
+11:46:15 [Info] > Player disconnected
+11:46:31 [Info] > Removing empty database object
+11:46:31 [Info] > Player disconnected
+11:46:56 [Info] > Removing empty database object
+11:46:58 [Info] > Player disconnected
+11:47:09 [Info] > Removing empty database object
+11:47:09 [Info] > Player disconnected
+11:47:17 [Info] > Removing empty database object
+11:47:19 [Info] > Player disconnected
+11:47:54 [Info] > Removing empty database object
+11:47:54 [Info] > Player disconnected
+11:48:02 [Info] > Removing empty database object
+11:48:04 [Info] > Player disconnected
+11:48:34 [Info] > Removing empty database object
+11:48:34 [Info] > Player disconnected
+11:48:42 [Info] > Removing empty database object
+11:48:44 [Info] > Player disconnected
+11:52:17 [Info] > Removing empty database object
+11:52:17 [Info] > Player disconnected
+11:52:24 [Info] > Removing empty database object
+11:52:26 [Info] > Player disconnected
+11:56:02 [Info] > Removing empty database object
+11:56:02 [Info] > Player disconnected
+11:56:08 [Info] > Removing empty database object
+11:56:09 [Info] > Player disconnected
+11:56:13 [Info] > Removing empty database object
+11:56:13 [Info] > Player disconnected
+11:57:16 [Info] > Removing empty database object
+11:57:17 [Info] > Player disconnected
+11:57:24 [Info] > Removing empty database object
+11:57:24 [Info] > Player disconnected
+12:00:06 [Info] > Removing empty database object
+12:00:08 [Info] > Player disconnected
+12:00:12 [Info] > Removing empty database object
+12:00:12 [Info] > Player disconnected
+12:07:42 [Info] > Removing empty database object
+12:07:43 [Info] > Player disconnected
+12:14:07 [Info] > Removing empty database object
+12:14:07 [Info] > Player disconnected
+12:14:15 [Info] > Removing empty database object
+12:14:33 [Info] > Removing empty database object
+12:14:34 [Info] > Player disconnected
+12:16:17 [Info] > Removing empty database object
+12:16:17 [Info] > Player disconnected
+12:16:24 [Info] > Removing empty database object
+12:16:25 [Info] > Player disconnected
+12:17:05 [Info] > Removing empty database object
+12:17:05 [Info] > Player disconnected
+12:17:14 [Info] > Removing empty database object
+12:17:15 [Info] > Player disconnected
+12:18:33 [Info] > Removing empty database object
+12:18:33 [Info] > Player disconnected
+12:18:40 [Info] > Removing empty database object
+12:18:41 [Info] > Player disconnected
+12:24:02 [Info] > Removing empty database object
+12:24:02 [Info] > Player disconnected
+12:24:08 [Info] > Removing empty database object
+12:24:10 [Info] > Player disconnected
+12:24:18 [Info] > Removing empty database object
+12:24:18 [Info] > Player disconnected
+12:29:48 [Info] > Loaded 1 plugin(s): LoginNotice
+12:29:48 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+12:30:10 [Info] > Removing empty database object
+12:30:11 [Info] > Player disconnected
+12:34:13 [Info] > Removing empty database object
+12:34:13 [Info] > Player disconnected
+13:27:43 [Info] > Loaded 1 plugin(s): LoginNotice
+13:27:43 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+13:28:00 [Info] > Removing empty database object
+13:28:06 [Info] > Player disconnected
+13:28:13 [Info] > Removing empty database object
+13:28:13 [Info] > Player disconnected
+13:28:21 [Info] > Removing empty database object
+13:28:22 [Info] > Player disconnected
+13:29:36 [Info] > Removing empty database object
+13:29:36 [Info] > Player disconnected
+13:29:42 [Info] > Removing empty database object
+13:29:44 [Info] > Player disconnected
+13:37:33 [Info] > Loaded 1 plugin(s): LoginNotice
+13:37:33 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+13:43:51 [Info] > Loaded 1 plugin(s): LoginNotice
+13:43:51 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+13:43:58 [Info] > Removing empty database object
+13:45:01 [Info] > Player disconnected
+13:45:50 [Info] > Removing empty database object
+13:45:50 [Info] > Player disconnected
+13:46:11 [Info] > Removing empty database object
+13:46:13 [Info] > Player disconnected
+13:46:56 [Info] > Removing empty database object
+13:46:56 [Info] > Player disconnected
+13:47:03 [Info] > Removing empty database object
+13:47:04 [Info] > Player disconnected
+13:49:16 [Info] > Loaded 1 plugin(s): LoginNotice
+13:49:16 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+13:50:01 [Info] > Removing empty database object
+13:50:03 [Info] > Player disconnected
+13:56:13 [Info] > Loaded 1 plugin(s): LoginNotice
+13:56:13 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+13:56:41 [Info] > Removing empty database object
+13:56:42 [Info] > Player disconnected
+13:57:11 [Info] > Removing empty database object
+13:57:11 [Info] > Player disconnected
+13:57:37 [Info] > Removing empty database object
+13:57:38 [Info] > Player disconnected
+13:57:45 [Info] > Removing empty database object
+13:57:45 [Info] > Player disconnected
+14:27:58 [Info] > Removing empty database object
+14:27:59 [Info] > Player disconnected
+14:29:40 [Info] > Removing empty database object
+14:29:40 [Info] > Player disconnected
+14:34:44 [Info] > Loaded 1 plugin(s): LoginNotice
+14:34:44 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+14:55:09 [Info] > Loaded 1 plugin(s): LoginNotice
+14:55:09 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+14:56:33 [Info] > Removing empty database object
+14:56:36 [Info] > Player disconnected
+15:13:43 [Info] > Removing empty database object
+15:13:43 [Info] > Player disconnected
+15:18:15 [Info] > Removing empty database object
+15:18:18 [Info] > Player disconnected
+15:31:17 [Info] > Removing empty database object
+15:31:17 [Info] > Player disconnected
+00:02:45 [Info] > Loaded 1 plugin(s): LoginNotice
+00:02:45 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+00:03:14 [Info] > Removing empty database object
+00:03:16 [Info] > Player disconnected
+00:12:49 [Info] > Loaded 1 plugin(s): LoginNotice
+00:12:49 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+00:13:00 [Info] > Removing empty database object
+00:13:01 [Info] > Player disconnected
+00:14:16 [Info] > Removing empty database object
+00:14:16 [Info] > Player disconnected
+00:14:34 [Info] > Removing empty database object
+00:14:35 [Info] > Player disconnected
+00:16:55 [Info] > Removing empty database object
+00:16:55 [Info] > Player disconnected
+00:18:18 [Info] > Removing empty database object
+00:18:22 [Info] > Player disconnected
+01:39:46 [Info] > Removing empty database object
+01:39:46 [Info] > Player disconnected
+01:40:21 [Info] > Removing empty database object
+01:40:23 [Info] > Player disconnected
+01:40:34 [Info] > Removing empty database object
+01:40:34 [Info] > Player disconnected
+01:40:59 [Info] > Removing empty database object
+01:41:01 [Info] > Player disconnected
+01:41:04 [Info] > Removing empty database object
+01:41:04 [Info] > Player disconnected
+01:43:38 [Info] > Removing empty database object
+01:43:40 [Info] > Player disconnected
+01:44:27 [Info] > Removing empty database object
+01:44:27 [Info] > Player disconnected
+01:44:40 [Info] > Removing empty database object
+01:44:42 [Info] > Player disconnected
+01:47:01 [Info] > Removing empty database object
+01:47:01 [Info] > Player disconnected
+01:47:19 [Info] > Removing empty database object
+01:47:21 [Info] > Player disconnected
+01:50:17 [Info] > Removing empty database object
+01:50:17 [Info] > Player disconnected
+01:50:38 [Info] > Removing empty database object
+01:50:40 [Info] > Player disconnected
+01:51:06 [Info] > Removing empty database object
+01:51:06 [Info] > Player disconnected
+01:51:13 [Info] > Removing empty database object
+01:51:23 [Info] > Player disconnected
+01:58:45 [Info] > Removing empty database object
+01:58:45 [Info] > Player disconnected
+02:46:09 [Info] > Loaded 1 plugin(s): LoginNotice
+02:46:09 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+02:47:50 [Info] > Removing empty database object
+02:47:52 [Info] > Player disconnected
+02:48:29 [Info] > Removing empty database object
+02:48:29 [Info] > Player disconnected
+02:49:46 [Info] > Removing empty database object
+02:49:47 [Info] > Player disconnected
+03:15:37 [Info] > Removing empty database object
+03:15:37 [Info] > Player disconnected
+03:15:58 [Info] > Removing empty database object
+03:16:00 [Info] > Player disconnected
+03:16:23 [Info] > Removing empty database object
+03:16:23 [Info] > Player disconnected
+05:50:24 [Info] > Loaded 1 plugin(s): LoginNotice
+05:50:24 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+05:51:08 [Info] > Removing empty database object
+05:51:10 [Info] > Player disconnected
+06:05:03 [Info] > Removing empty database object
+06:05:03 [Info] > Player disconnected
+06:05:14 [Info] > Removing empty database object
+06:05:17 [Info] > Player disconnected
+06:05:53 [Info] > Removing empty database object
+06:05:53 [Info] > Player disconnected
+06:08:56 [Info] > Removing empty database object
+06:08:57 [Info] > Player disconnected
+06:09:23 [Info] > Removing empty database object
+06:09:23 [Info] > Player disconnected
+06:09:30 [Info] > Removing empty database object
+06:09:32 [Info] > Player disconnected
+06:28:35 [Info] > Removing empty database object
+06:28:35 [Info] > Player disconnected
+06:28:53 [Info] > Removing empty database object
+06:28:54 [Info] > Player disconnected
+06:35:14 [Info] > Removing empty database object
+06:35:14 [Info] > Player disconnected
+06:35:34 [Info] > Removing empty database object
+06:35:37 [Info] > Player disconnected
+06:40:35 [Info] > Removing empty database object
+06:40:35 [Info] > Player disconnected
+06:41:04 [Info] > Removing empty database object
+06:41:05 [Info] > Player disconnected
+06:41:27 [Info] > Removing empty database object
+06:41:27 [Info] > Player disconnected
+06:42:25 [Info] > Removing empty database object
+06:42:27 [Info] > Player disconnected
+06:49:30 [Info] > Removing empty database object
+06:49:30 [Info] > Player disconnected
+23:32:20 [Info] > Loaded 1 plugin(s): LoginNotice
+23:32:20 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+23:32:59 [Info] > Removing empty database object
+23:33:10 [Info] > Removing empty database object
+23:34:15 [Info] > Removing empty database object
+23:34:17 [Info] > Player disconnected
+23:38:50 [Info] > Removing empty database object
+23:38:50 [Info] > Player disconnected
+23:38:58 [Info] > Removing empty database object
+23:38:59 [Info] > Player disconnected
+23:40:43 [Info] > Removing empty database object
+23:40:43 [Info] > Player disconnected
+23:40:50 [Info] > Removing empty database object
+23:40:51 [Info] > Player disconnected
+23:41:07 [Info] > Removing empty database object
+23:41:07 [Info] > Player disconnected
+23:41:14 [Info] > Removing empty database object
+23:41:15 [Info] > Player disconnected
+23:42:34 [Info] > Removing empty database object
+23:42:34 [Info] > Player disconnected
+23:42:40 [Info] > Removing empty database object
+23:42:42 [Info] > Player disconnected
+23:45:16 [Info] > Removing empty database object
+23:45:16 [Info] > Player disconnected
+23:45:22 [Info] > Removing empty database object
+23:45:24 [Info] > Player disconnected
+23:46:08 [Info] > Removing empty database object
+23:46:08 [Info] > Player disconnected
+23:46:14 [Info] > Removing empty database object
+23:46:15 [Info] > Player disconnected
+23:46:56 [Info] > Removing empty database object
+23:46:56 [Info] > Player disconnected
+23:47:02 [Info] > Removing empty database object
+23:47:04 [Info] > Player disconnected
+23:47:50 [Info] > Removing empty database object
+23:47:50 [Info] > Player disconnected
+23:47:56 [Info] > Removing empty database object
+23:47:58 [Info] > Player disconnected
+23:48:48 [Info] > Removing empty database object
+23:48:48 [Info] > Player disconnected
+23:48:55 [Info] > Removing empty database object
+23:48:56 [Info] > Player disconnected
+23:49:03 [Info] > Removing empty database object
+23:49:03 [Info] > Player disconnected
+00:42:32 [Info] > Loaded 1 plugin(s): LoginNotice
+00:42:32 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+00:42:49 [Info] > Removing empty database object
+00:42:55 [Info] > Player disconnected
+00:51:16 [Info] > Loaded 1 plugin(s): LoginNotice
+00:51:16 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+00:51:25 [Info] > Removing empty database object
+00:51:27 [Info] > Player disconnected
+00:52:51 [Info] > Loaded 1 plugin(s): LoginNotice
+00:52:51 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+00:53:00 [Info] > Removing empty database object
+00:53:01 [Info] > Player disconnected
+00:54:25 [Info] > Loaded 1 plugin(s): LoginNotice
+00:54:25 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+00:54:35 [Info] > Removing empty database object
+00:54:36 [Info] > Player disconnected
+00:57:25 [Info] > Loaded 1 plugin(s): LoginNotice
+00:57:25 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+00:57:36 [Info] > Removing empty database object
+00:57:38 [Info] > Player disconnected
+01:16:09 [Info] > Loaded 1 plugin(s): LoginNotice
+01:16:09 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+01:16:20 [Info] > Removing empty database object
+01:16:23 [Info] > Player disconnected
+01:19:14 [Info] > Loaded 1 plugin(s): LoginNotice
+01:19:14 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+01:19:23 [Info] > Removing empty database object
+01:19:25 [Info] > Player disconnected
+01:19:51 [Info] > Removing empty database object
+01:19:51 [Info] > Player disconnected
+01:19:58 [Info] > Removing empty database object
+01:19:59 [Info] > Player disconnected
+01:24:29 [Info] > Removing empty database object
+01:24:29 [Info] > Player disconnected
+01:24:36 [Info] > Removing empty database object
+01:24:38 [Info] > Player disconnected
+01:27:13 [Info] > Loaded 1 plugin(s): LoginNotice
+01:27:13 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+01:27:24 [Info] > Removing empty database object
+01:27:26 [Info] > Player disconnected
+01:35:56 [Info] > Removing empty database object
+01:35:56 [Info] > Player disconnected
+01:36:03 [Info] > Removing empty database object
+01:36:34 [Info] > Removing empty database object
+01:36:35 [Info] > Player disconnected
+01:39:33 [Info] > Loaded 1 plugin(s): LoginNotice
+01:39:33 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+01:39:49 [Info] > Removing empty database object
+01:41:42 [Info] > Player disconnected
+01:59:49 [Info] > Removing empty database object
+01:59:49 [Info] > Player disconnected
+02:11:07 [Info] > Removing empty database object
+02:11:13 [Info] > Player disconnected
+02:12:10 [Info] > Loaded 1 plugin(s): LoginNotice
+02:12:10 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+02:12:21 [Info] > Removing empty database object
+02:12:27 [Info] > Player disconnected
+02:16:05 [Info] > Removing empty database object
+02:16:05 [Info] > Player disconnected
+02:16:12 [Info] > Removing empty database object
+02:16:14 [Info] > Player disconnected
+02:16:59 [Info] > Loaded 1 plugin(s): LoginNotice
+02:16:59 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+02:17:08 [Info] > Removing empty database object
+02:17:10 [Info] > Player disconnected
+02:30:38 [Info] > Loaded 1 plugin(s): LoginNotice
+02:30:38 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+02:30:49 [Info] > Removing empty database object
+02:30:51 [Info] > Player disconnected
+02:40:30 [Info] > Removing empty database object
+02:40:30 [Info] > Player disconnected
+14:39:33 [Info] > Loaded 1 plugin(s): LoginNotice
+14:39:33 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+14:45:29 [Info] > Removing empty database object
+14:45:30 [Info] > Player disconnected
+14:58:31 [Info] > Removing empty database object
+14:58:31 [Info] > Player disconnected
+15:05:14 [Info] > Loaded 1 plugin(s): LoginNotice
+15:05:14 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+15:05:51 [Info] > Removing empty database object
+15:05:52 [Info] > Player disconnected
+15:07:47 [Info] > Removing empty database object
+15:07:47 [Info] > Player disconnected
+22:26:42 [Info] > Loaded 1 plugin(s): LoginNotice
+22:26:42 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+22:27:04 [Info] > Removing empty database object
+22:27:06 [Info] > Player disconnected
+22:46:04 [Info] > Removing empty database object
+22:46:04 [Info] > Player disconnected
+22:46:32 [Info] > Removing empty database object
+22:46:37 [Info] > Player disconnected
+22:47:08 [Info] > Removing empty database object
+22:47:08 [Info] > Player disconnected
+22:47:35 [Info] > Removing empty database object
+22:47:37 [Info] > Player disconnected
+23:40:29 [Info] > Removing empty database object
+23:40:29 [Info] > Player disconnected
+02:45:37 [Info] > Loaded 1 plugin(s): LoginNotice
+02:45:37 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+02:46:33 [Info] > Removing empty database object
+02:46:35 [Info] > Player disconnected
+02:48:55 [Info] > Loaded 1 plugin(s): LoginNotice
+02:48:55 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+02:49:03 [Info] > Removing empty database object
+02:49:04 [Info] > Player disconnected
+03:51:28 [Info] > Loaded 1 plugin(s): LoginNotice
+03:51:28 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+03:51:46 [Info] > Removing empty database object
+03:51:49 [Info] > Player disconnected
+03:53:26 [Info] > Removing empty database object
+03:53:26 [Info] > Player disconnected
+03:53:45 [Info] > Removing empty database object
+03:53:47 [Info] > Player disconnected
+03:55:23 [Info] > Loaded 1 plugin(s): LoginNotice
+03:55:23 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+03:55:50 [Info] > Loaded 1 plugin(s): LoginNotice
+03:55:50 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+03:56:06 [Info] > Removing empty database object
+03:56:08 [Info] > Player disconnected
+03:56:08 [Info] > Removing empty database object
+04:03:34 [Info] > Loaded 1 plugin(s): LoginNotice
+04:03:34 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+04:04:52 [Info] > Loaded 1 plugin(s): LoginNotice
+04:04:52 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+04:05:14 [Info] > Removing empty database object
+04:05:21 [Info] > Player disconnected
+04:13:02 [Info] > Removing empty database object
+04:13:02 [Info] > Player disconnected
+04:13:12 [Info] > Removing empty database object
+04:13:14 [Info] > Player disconnected
+04:14:53 [Info] > Loaded 1 plugin(s): LoginNotice
+04:14:53 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+04:15:23 [Info] > Removing empty database object
+04:15:24 [Info] > Player disconnected
+04:16:40 [Info] > Loaded 1 plugin(s): LoginNotice
+04:16:40 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+04:16:52 [Info] > Removing empty database object
+04:16:53 [Info] > Player disconnected
+04:23:22 [Info] > Loaded 1 plugin(s): LoginNotice
+04:23:22 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+04:23:47 [Info] > Removing empty database object
+04:23:49 [Info] > Player disconnected
+04:29:31 [Info] > Loaded 1 plugin(s): LoginNotice
+04:29:31 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+04:29:49 [Info] > Removing empty database object
+04:29:59 [Info] > Player disconnected
+04:37:48 [Info] > Loaded 1 plugin(s): LoginNotice
+04:37:48 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+04:38:12 [Info] > Removing empty database object
+04:38:14 [Info] > Player disconnected
+04:40:59 [Info] > Loaded 1 plugin(s): LoginNotice
+04:40:59 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+04:41:17 [Info] > Removing empty database object
+04:45:44 [Info] > Loaded 1 plugin(s): LoginNotice
+04:45:44 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+04:46:04 [Info] > Removing empty database object
+04:46:05 [Info] > Player disconnected
+05:26:31 [Info] > Loaded 1 plugin(s): LoginNotice
+05:26:31 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+05:30:59 [Info] > Loaded 1 plugin(s): LoginNotice
+05:30:59 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+05:31:14 [Info] > Removing empty database object
+05:31:21 [Info] > Player disconnected
+05:36:20 [Info] > Removing empty database object
+05:36:20 [Info] > Player disconnected
+05:44:11 [Info] > Loaded 1 plugin(s): LoginNotice
+05:44:11 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+05:44:32 [Info] > Removing empty database object
+05:44:33 [Info] > Player disconnected
+05:55:40 [Info] > Removing empty database object
+05:55:40 [Info] > Player disconnected
+06:35:35 [Info] > Loaded 1 plugin(s): LoginNotice
+06:35:35 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+06:35:49 [Info] > Removing empty database object
+06:35:55 [Info] > Player disconnected
+06:47:05 [Info] > Loaded 1 plugin(s): LoginNotice
+06:47:05 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+06:47:25 [Info] > Removing empty database object
+06:47:26 [Info] > Player disconnected
+06:47:54 [Info] > Removing empty database object
+06:47:54 [Info] > Player disconnected
+06:48:27 [Info] > Loaded 1 plugin(s): LoginNotice
+06:48:27 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+06:51:11 [Info] > Loaded 1 plugin(s): LoginNotice
+06:51:11 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+06:51:53 [Info] > Removing empty database object
+06:51:54 [Info] > Player disconnected
+07:08:20 [Info] > Loaded 1 plugin(s): LoginNotice
+07:08:20 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+07:08:40 [Info] > Removing empty database object
+07:08:44 [Info] > Player disconnected
+08:51:40 [Info] > Loaded 1 plugin(s): LoginNotice
+08:51:40 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+08:52:24 [Info] > Removing empty database object
+08:52:28 [Info] > Player disconnected
+08:54:14 [Info] > Removing empty database object
+08:54:14 [Info] > Player disconnected
+08:54:26 [Info] > Removing empty database object
+08:54:30 [Info] > Player disconnected
+08:55:49 [Info] > Removing empty database object
+08:55:49 [Info] > Player disconnected
+08:56:01 [Info] > Removing empty database object
+08:56:08 [Info] > Removing empty database object
+08:56:28 [Info] > Removing empty database object
+08:56:43 [Info] > Loaded 1 plugin(s): LoginNotice
+08:56:43 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+08:56:59 [Info] > Removing empty database object
+08:57:01 [Info] > Player disconnected
+08:59:42 [Info] > Loaded 1 plugin(s): LoginNotice
+08:59:42 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+09:00:57 [Info] > Removing empty database object
+09:00:58 [Info] > Player disconnected
+09:10:28 [Info] > Removing empty database object
+09:10:28 [Info] > Player disconnected
+09:10:47 [Info] > Removing empty database object
+09:10:59 [Info] > Player disconnected
+09:15:29 [Info] > Removing empty database object
+09:15:29 [Info] > Player disconnected
+13:07:16 [Info] > Loaded 1 plugin(s): LoginNotice
+13:07:17 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+13:09:32 [Info] > Loaded 1 plugin(s): LoginNotice
+13:09:32 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+13:13:36 [Info] > Loaded 1 plugin(s): LoginNotice
+13:13:36 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+13:14:05 [Info] > Removing empty database object
+13:14:07 [Info] > Player disconnected
+23:51:26 [Info] > Loaded 1 plugin(s): LoginNotice
+23:51:26 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+23:52:04 [Info] > Removing empty database object
+23:52:06 [Info] > Player disconnected
+00:03:10 [Info] > Removing empty database object
+00:03:10 [Info] > Player disconnected
+00:42:22 [Info] > Loaded 1 plugin(s): LoginNotice
+00:42:22 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+00:42:34 [Info] > Removing empty database object
+00:42:35 [Info] > Player disconnected
+00:47:12 [Info] > Removing empty database object
+00:47:12 [Info] > Player disconnected
+00:50:42 [Info] > Loaded 1 plugin(s): LoginNotice
+00:50:42 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+00:51:12 [Info] > Loaded 1 plugin(s): LoginNotice
+00:51:12 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+00:53:27 [Info] > Loaded 1 plugin(s): LoginNotice
+00:53:27 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+00:53:55 [Info] > Loaded 1 plugin(s): LoginNotice
+00:53:55 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+00:55:16 [Info] > Loaded 1 plugin(s): LoginNotice
+00:55:16 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+00:56:01 [Info] > Loaded 1 plugin(s): LoginNotice
+00:56:01 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+00:56:34 [Info] > Loaded 1 plugin(s): LoginNotice
+00:56:34 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+00:57:13 [Info] > Loaded 1 plugin(s): LoginNotice
+00:57:13 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+00:58:10 [Info] > Loaded 1 plugin(s): LoginNotice
+00:58:10 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+00:58:21 [Info] > Loaded 1 plugin(s): LoginNotice
+00:58:21 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+00:58:29 [Info] > Loaded 1 plugin(s): LoginNotice
+00:58:29 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+00:58:44 [Info] > Loaded 1 plugin(s): LoginNotice
+00:58:44 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+01:00:34 [Info] > Loaded 1 plugin(s): LoginNotice
+01:00:34 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+01:02:35 [Info] > Loaded 1 plugin(s): LoginNotice
+01:02:35 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+01:27:52 [Info] > Loaded 1 plugin(s): LoginNotice
+01:27:52 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+01:28:17 [Info] > Removing empty database object
+01:28:18 [Info] > Player disconnected
+01:30:57 [Info] > Loaded 1 plugin(s): LoginNotice
+01:30:57 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+01:31:15 [Info] > Removing empty database object
+01:31:16 [Info] > Player disconnected
+01:31:30 [Info] > Removing empty database object
+01:31:30 [Info] > Player disconnected
+01:32:21 [Info] > Removing empty database object
+01:32:22 [Info] > Player disconnected
+01:33:15 [Info] > Removing empty database object
+01:33:15 [Info] > Player disconnected
+01:33:29 [Info] > Removing empty database object
+01:33:31 [Info] > Player disconnected
+01:34:39 [Info] > Removing empty database object
+01:34:39 [Info] > Player disconnected
+03:30:11 [Info] > Loaded 1 plugin(s): LoginNotice
+03:30:11 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+03:30:51 [Info] > Removing empty database object
+03:30:53 [Info] > Player disconnected
+03:38:29 [Info] > Removing empty database object
+03:38:29 [Info] > Player disconnected
+03:38:41 [Info] > Removing empty database object
+03:38:42 [Info] > Player disconnected
+03:47:15 [Info] > Removing empty database object
+03:47:15 [Info] > Player disconnected
+14:33:05 [Info] > Loaded 1 plugin(s): LoginNotice
+14:33:05 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+14:33:59 [Info] > Removing empty database object
+14:34:00 [Info] > Player disconnected
+14:36:50 [Info] > Removing empty database object
+14:36:50 [Info] > Player disconnected
+09:29:54 [Info] > Loaded 1 plugin(s): LoginNotice
+09:29:54 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+09:30:54 [Info] > Removing empty database object
+09:30:56 [Info] > Player disconnected
+09:43:18 [Info] > Removing empty database object
+09:43:18 [Info] > Player disconnected
+15:37:42 [Info] > Loaded 1 plugin(s): LoginNotice
+15:37:42 [Info] > Loaded 3 plugin(s): Commands, LoginNotice, PatchedItems
+15:38:10 [Info] > Removing empty database object
+15:38:11 [Info] > Player disconnected
+15:44:20 [Info] > Removing empty database object
+15:44:20 [Info] > Player disconnected
